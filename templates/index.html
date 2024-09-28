@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload Website</title>
+    <style>
+
+        .deepfake-heading {
+            text-align: center;
+            background-color: #3498db;
+            color: #fff;
+            padding: 20px 0;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            font-size: 60px;
+        }
+
+        .horizontal-labels {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .horizontal-label {
+            margin: 0 10px;
+        }
+
+        .blue-button {
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .blue-button:hover {
+            background-color: #2980b9;
+        }
+
+        /* Responsive CSS */
+        @media screen and (max-width: 600px) {
+            .container {
+                max-width: 100%;
+            }
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 25vh; /* You can adjust this height to fit your needs */
+            border: 2px solid #ddd; /* Add border to containers */
+            background-color: #f2f2f2; /* Add background color to containers */
+        }
+
+        .container > div {
+            border: 1px solid #ccc; /* Add border to inner divs within containers */
+            padding: 20px;
+            border-radius: 5px;
+            max-width: 400px;
+            background-color: #fff; /* Add background color to inner divs */
+        }
+
+    </style>
+</head>
+<body>
+    <div class="deepfake-heading">
+        <b>Deepfake Detection</b>
+    </div>
+    <form method="POST" enctype="multipart/form-data">
+        <div class="container">
+            <div class="file-upload">
+
+                <input type="file" name="video" accept="video/*" required>
+                <button type="submit" class="blue-button">Predict</button> <!--onclick="predictResult()"-->
+            </div>
+        </div>
+        <div class="container">
+            <div class="horizontal-labels">
+                <div class="horizontal-label">
+                    <label for="label1">Video Name:</label>
+                </div>
+                <div class="horizontal-label" id="videoName">
+                    <label for="label2">{{ result['video_name'] }}</label>
+                </div>
+            </div>
+            <div class="horizontal-labels">
+                <div class="horizontal-label">
+                    <label for="label3">Result: </label>
+                </div>
+                <div class="horizontal-label" id="result">
+                    <label for="label4">{{ result['is_fake'] }}</label>
+                </div>
+            </div>
+
+            <div class="horizontal-labels">
+                <div class="horizontal-label">
+                    <label for="label5">Confidence Level: </label>
+                </div>
+                <div class="horizontal-label" id="confidenceLevel">
+                    <label for="label6">{{ result['confidence'] }}%</label>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
