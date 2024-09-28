@@ -1,0 +1,800 @@
+1/1 [==============================] - 0s 133ms/step
+1. Video: aassnaulhq.mp4, Prediction: Fake, Confidence: 0.7835538387298584
+1/1 [==============================] - 0s 25ms/step
+2. Video: aayfryxljh.mp4, Prediction: Fake, Confidence: 0.918856143951416
+1/1 [==============================] - 0s 26ms/step
+3. Video: acazlolrpz.mp4, Prediction: Fake, Confidence: 0.776310920715332
+1/1 [==============================] - 0s 28ms/step
+4. Video: adohdulfwb.mp4, Prediction: Fake, Confidence: 0.8775953650474548
+1/1 [==============================] - 0s 26ms/step
+5. Video: ahjnxtiamx.mp4, Prediction: Fake, Confidence: 0.9006814956665039
+1/1 [==============================] - 0s 26ms/step
+6. Video: ajiyrjfyzp.mp4, Prediction: Fake, Confidence: 0.8207785487174988
+1/1 [==============================] - 0s 28ms/step
+7. Video: aktnlyqpah.mp4, Prediction: Fake, Confidence: 0.8787704706192017
+1/1 [==============================] - 0s 27ms/step
+8. Video: alrtntfxtd.mp4, Prediction: Fake, Confidence: 0.8790031671524048
+1/1 [==============================] - 0s 27ms/step
+9. Video: aomqqjipcp.mp4, Prediction: Fake, Confidence: 0.9011995196342468
+1/1 [==============================] - 0s 28ms/step
+10. Video: apedduehoy.mp4, Prediction: Fake, Confidence: 0.8427677750587463
+1/1 [==============================] - 0s 28ms/step
+11. Video: apvzjkvnwn.mp4, Prediction: Fake, Confidence: 0.7666551470756531
+1/1 [==============================] - 0s 26ms/step
+12. Video: aqrsylrzgi.mp4, Prediction: Fake, Confidence: 0.9785618185997009
+1/1 [==============================] - 0s 25ms/step
+13. Video: axfhbpkdlc.mp4, Prediction: Fake, Confidence: 0.7089229822158813
+1/1 [==============================] - 0s 26ms/step
+14. Video: ayipraspbn.mp4, Prediction: Fake, Confidence: 0.9239347577095032
+1/1 [==============================] - 0s 27ms/step
+15. Video: bcbqxhziqz.mp4, Prediction: Fake, Confidence: 0.8844971060752869
+1/1 [==============================] - 0s 26ms/step
+16. Video: bcvheslzrq.mp4, Prediction: Fake, Confidence: 0.7504841089248657
+1/1 [==============================] - 0s 26ms/step
+17. Video: bdshuoldwx.mp4, Prediction: Fake, Confidence: 0.8743236660957336
+1/1 [==============================] - 0s 27ms/step
+18. Video: bfdopzvxbi.mp4, Prediction: Fake, Confidence: 0.7686091661453247
+1/1 [==============================] - 0s 26ms/step
+19. Video: bfjsthfhbd.mp4, Prediction: Fake, Confidence: 0.8583449125289917
+1/1 [==============================] - 0s 25ms/step
+20. Video: bjyaxvggle.mp4, Prediction: Fake, Confidence: 0.9964395761489868
+1/1 [==============================] - 0s 28ms/step
+21. Video: bkcyglmfci.mp4, Prediction: Fake, Confidence: 0.7784939408302307
+1/1 [==============================] - 0s 26ms/step
+22. Video: bktkwbcawi.mp4, Prediction: Fake, Confidence: 0.784818172454834
+1/1 [==============================] - 0s 27ms/step
+23. Video: bkuzquigyt.mp4, Prediction: Fake, Confidence: 0.7960438132286072
+1/1 [==============================] - 0s 26ms/step
+24. Video: blnmxntbey.mp4, Prediction: Fake, Confidence: 0.6170791387557983
+1/1 [==============================] - 0s 26ms/step
+25. Video: blszgmxkvu.mp4, Prediction: Fake, Confidence: 0.825594425201416
+1/1 [==============================] - 0s 26ms/step
+26. Video: bnuwxhfahw.mp4, Prediction: Fake, Confidence: 0.7709158062934875
+1/1 [==============================] - 0s 27ms/step
+27. Video: bofrwgeyjo.mp4, Prediction: Fake, Confidence: 0.6241012811660767
+1/1 [==============================] - 0s 25ms/step
+28. Video: btdxnajogv.mp4, Prediction: Fake, Confidence: 0.5330036282539368
+1/1 [==============================] - 0s 26ms/step
+29. Video: bvpeerislp.mp4, Prediction: Fake, Confidence: 0.9691060781478882
+1/1 [==============================] - 0s 26ms/step
+30. Video: bwdmzwhdnw.mp4, Prediction: Real, Confidence: 0.42506444454193115
+1/1 [==============================] - 0s 27ms/step
+31. Video: bzvzpwrabw.mp4, Prediction: Fake, Confidence: 0.6039766073226929
+1/1 [==============================] - 0s 27ms/step
+32. Video: cekarydqba.mp4, Prediction: Fake, Confidence: 0.9199129343032837
+1/1 [==============================] - 0s 26ms/step
+33. Video: cekwtyxdoo.mp4, Prediction: Fake, Confidence: 0.8171058893203735
+1/1 [==============================] - 0s 26ms/step
+34. Video: cjkctqqakb.mp4, Prediction: Fake, Confidence: 0.8172365427017212
+1/1 [==============================] - 0s 29ms/step
+35. Video: cnpanmywno.mp4, Prediction: Fake, Confidence: 0.8742172122001648
+1/1 [==============================] - 0s 27ms/step
+36. Video: cnxccbjlct.mp4, Prediction: Fake, Confidence: 0.8059057593345642
+1/1 [==============================] - 0s 26ms/step
+37. Video: coqwgzpbhx.mp4, Prediction: Fake, Confidence: 0.8769805431365967
+1/1 [==============================] - 0s 27ms/step
+38. Video: cosghhimnd.mp4, Prediction: Fake, Confidence: 0.687277615070343
+1/1 [==============================] - 0s 26ms/step
+39. Video: coujjnypba.mp4, Prediction: Fake, Confidence: 0.6183159947395325
+1/1 [==============================] - 0s 28ms/step
+40. Video: cqhwesrciw.mp4, Prediction: Fake, Confidence: 0.8852357268333435
+1/1 [==============================] - 0s 27ms/step
+41. Video: cqxxumarvp.mp4, Prediction: Fake, Confidence: 0.825243353843689
+1/1 [==============================] - 0s 26ms/step
+42. Video: csnkohqxdv.mp4, Prediction: Fake, Confidence: 0.5061174035072327
+1/1 [==============================] - 0s 27ms/step
+43. Video: cxsvvnxpyz.mp4, Prediction: Fake, Confidence: 0.8569449782371521
+1/1 [==============================] - 0s 26ms/step
+44. Video: czfqlbcfpa.mp4, Prediction: Fake, Confidence: 0.8656513094902039
+1/1 [==============================] - 0s 27ms/step
+45. Video: dcqodpzomd.mp4, Prediction: Fake, Confidence: 0.7785488963127136
+1/1 [==============================] - 0s 28ms/step
+46. Video: ddtbarpcgo.mp4, Prediction: Fake, Confidence: 0.5994179248809814
+1/1 [==============================] - 0s 28ms/step
+47. Video: demuhxssgl.mp4, Prediction: Fake, Confidence: 0.788986086845398
+1/1 [==============================] - 0s 27ms/step
+48. Video: didzujjhtg.mp4, Prediction: Fake, Confidence: 0.8260509371757507
+1/1 [==============================] - 0s 27ms/step
+49. Video: dkuqbduxev.mp4, Prediction: Fake, Confidence: 0.8807234764099121
+1/1 [==============================] - 0s 26ms/step
+50. Video: dmmvuaikkv.mp4, Prediction: Fake, Confidence: 0.5352411270141602
+1/1 [==============================] - 0s 27ms/step
+51. Video: dnmowthjcj.mp4, Prediction: Fake, Confidence: 0.8698936700820923
+1/1 [==============================] - 0s 27ms/step
+52. Video: doniqevxeg.mp4, Prediction: Fake, Confidence: 0.8029249310493469
+1/1 [==============================] - 0s 31ms/step
+53. Video: dozjwhnedd.mp4, Prediction: Fake, Confidence: 0.8043803572654724
+1/1 [==============================] - 0s 27ms/step
+54. Video: dpevefkefv.mp4, Prediction: Fake, Confidence: 0.7680141925811768
+1/1 [==============================] - 0s 28ms/step
+55. Video: dpmgoiwhuf.mp4, Prediction: Fake, Confidence: 0.6150291562080383
+1/1 [==============================] - 0s 27ms/step
+56. Video: dsnxgrfdmd.mp4, Prediction: Fake, Confidence: 0.7567700743675232
+1/1 [==============================] - 0s 27ms/step
+57. Video: dtozwcapoa.mp4, Prediction: Fake, Confidence: 0.7962018847465515
+1/1 [==============================] - 0s 26ms/step
+58. Video: dvkdfhrpph.mp4, Prediction: Fake, Confidence: 0.8881770372390747
+1/1 [==============================] - 0s 27ms/step
+59. Video: dvtpwatuja.mp4, Prediction: Real, Confidence: 0.48028457164764404
+1/1 [==============================] - 0s 27ms/step
+60. Video: dvwpvqdflx.mp4, Prediction: Fake, Confidence: 0.9233872294425964
+1/1 [==============================] - 0s 29ms/step
+61. Video: dxfdovivlw.mp4, Prediction: Fake, Confidence: 0.6199553608894348
+1/1 [==============================] - 0s 27ms/step
+62. Video: dxgnpnowgk.mp4, Prediction: Fake, Confidence: 0.6704868674278259
+1/1 [==============================] - 0s 27ms/step
+63. Video: dyjklprkoc.mp4, Prediction: Fake, Confidence: 0.7850185036659241
+1/1 [==============================] - 0s 28ms/step
+64. Video: dzkyxbbqkr.mp4, Prediction: Fake, Confidence: 0.9487897753715515
+1/1 [==============================] - 0s 27ms/step
+65. Video: dzojiwfvba.mp4, Prediction: Fake, Confidence: 0.8535906076431274
+1/1 [==============================] - 0s 26ms/step
+66. Video: ecumyiowzs.mp4, Prediction: Real, Confidence: 0.48165562748908997
+1/1 [==============================] - 0s 27ms/step
+67. Video: eisofhptvk.mp4, Prediction: Fake, Confidence: 0.7835687398910522
+1/1 [==============================] - 0s 28ms/step
+68. Video: ekboxwrwuv.mp4, Prediction: Fake, Confidence: 0.6051827073097229
+1/1 [==============================] - 0s 26ms/step
+69. Video: ekelfsnqof.mp4, Prediction: Fake, Confidence: 0.9247884154319763
+1/1 [==============================] - 0s 27ms/step
+70. Video: ekvwecwltj.mp4, Prediction: Fake, Confidence: 0.792471706867218
+1/1 [==============================] - 0s 27ms/step
+71. Video: elackxuccp.mp4, Prediction: Fake, Confidence: 0.6368519067764282
+1/1 [==============================] - 0s 26ms/step
+72. Video: eppyqpgewp.mp4, Prediction: Fake, Confidence: 0.8710841536521912
+1/1 [==============================] - 0s 26ms/step
+73. Video: eqslzbqfea.mp4, Prediction: Fake, Confidence: 0.7912197113037109
+1/1 [==============================] - 0s 26ms/step
+74. Video: eryjktdexi.mp4, Prediction: Fake, Confidence: 0.90725177526474
+1/1 [==============================] - 0s 28ms/step
+75. Video: esjdyghhog.mp4, Prediction: Fake, Confidence: 0.9744173884391785
+1/1 [==============================] - 0s 27ms/step
+76. Video: esmqxszybs.mp4, Prediction: Fake, Confidence: 0.6843329071998596
+1/1 [==============================] - 0s 29ms/step
+77. Video: espkiocpxq.mp4, Prediction: Fake, Confidence: 0.8060552477836609
+1/1 [==============================] - 0s 26ms/step
+78. Video: etdliwticv.mp4, Prediction: Fake, Confidence: 0.7699571847915649
+1/1 [==============================] - 0s 26ms/step
+79. Video: evysmtpnrf.mp4, Prediction: Fake, Confidence: 0.659220814704895
+1/1 [==============================] - 0s 26ms/step
+80. Video: eyguqfmgzh.mp4, Prediction: Fake, Confidence: 0.7071145176887512
+1/1 [==============================] - 0s 26ms/step
+81. Video: eywdmustbb.mp4, Prediction: Fake, Confidence: 0.7038537263870239
+1/1 [==============================] - 0s 27ms/step
+82. Video: famlupsgqm.mp4, Prediction: Fake, Confidence: 0.9651593565940857
+1/1 [==============================] - 0s 47ms/step
+83. Video: fddmkqjwsh.mp4, Prediction: Fake, Confidence: 0.9421590566635132
+1/1 [==============================] - 0s 26ms/step
+84. Video: fjrueenjyp.mp4, Prediction: Fake, Confidence: 0.8975626230239868
+1/1 [==============================] - 0s 28ms/step
+85. Video: fjxovgmwnm.mp4, Prediction: Fake, Confidence: 0.5674014091491699
+1/1 [==============================] - 0s 26ms/step
+86. Video: fmhiujydwo.mp4, Prediction: Fake, Confidence: 0.8559761047363281
+1/1 [==============================] - 0s 26ms/step
+87. Video: fmvvmcbdrw.mp4, Prediction: Fake, Confidence: 0.953773558139801
+1/1 [==============================] - 0s 26ms/step
+88. Video: fneqiqpqvs.mp4, Prediction: Fake, Confidence: 0.8844892978668213
+1/1 [==============================] - 0s 26ms/step
+89. Video: fnxgqcvlsd.mp4, Prediction: Fake, Confidence: 0.8805015683174133
+1/1 [==============================] - 0s 26ms/step
+90. Video: fopjiyxiqd.mp4, Prediction: Fake, Confidence: 0.8859111070632935
+1/1 [==============================] - 0s 27ms/step
+91. Video: fpevfidstw.mp4, Prediction: Fake, Confidence: 0.7094759941101074
+1/1 [==============================] - 0s 26ms/step
+92. Video: fqgypsunzr.mp4, Prediction: Fake, Confidence: 0.7978043556213379
+1/1 [==============================] - 0s 26ms/step
+93. Video: frqfsucgao.mp4, Prediction: Fake, Confidence: 0.8020837903022766
+1/1 [==============================] - 0s 26ms/step
+94. Video: fsdrwikhge.mp4, Prediction: Fake, Confidence: 0.8897579908370972
+1/1 [==============================] - 0s 26ms/step
+95. Video: fwykevubzy.mp4, Prediction: Fake, Confidence: 0.5955184102058411
+1/1 [==============================] - 0s 29ms/step
+96. Video: fxuxxtryjn.mp4, Prediction: Fake, Confidence: 0.7896052002906799
+1/1 [==============================] - 0s 27ms/step
+97. Video: fzvpbrzssi.mp4, Prediction: Fake, Confidence: 0.6350409388542175
+1/1 [==============================] - 0s 28ms/step
+98. Video: gahgyuwzbu.mp4, Prediction: Fake, Confidence: 0.7327059507369995
+1/1 [==============================] - 0s 26ms/step
+99. Video: gbnzicjyhz.mp4, Prediction: Fake, Confidence: 0.783669114112854
+1/1 [==============================] - 0s 26ms/step
+100. Video: gccnvdoknm.mp4, Prediction: Fake, Confidence: 0.9704425930976868
+1/1 [==============================] - 0s 26ms/step
+101. Video: gcdtglsoqj.mp4, Prediction: Fake, Confidence: 0.887485682964325
+1/1 [==============================] - 0s 27ms/step
+102. Video: gfcycflhbo.mp4, Prediction: Fake, Confidence: 0.6376289129257202
+1/1 [==============================] - 0s 26ms/step
+103. Video: gfdjzwnpyp.mp4, Prediction: Fake, Confidence: 0.8655641674995422
+1/1 [==============================] - 0s 28ms/step
+104. Video: gfgcwxkbjd.mp4, Prediction: Fake, Confidence: 0.771344006061554
+1/1 [==============================] - 0s 27ms/step
+105. Video: ggdpclfcgk.mp4, Prediction: Fake, Confidence: 0.8836959600448608
+1/1 [==============================] - 0s 26ms/step
+106. Video: ggzjfrirjh.mp4, Prediction: Fake, Confidence: 0.7610352039337158
+1/1 [==============================] - 0s 34ms/step
+107. Video: ghnpsltzyn.mp4, Prediction: Fake, Confidence: 0.7224316000938416
+1/1 [==============================] - 0s 26ms/step
+108. Video: gkutjglghz.mp4, Prediction: Fake, Confidence: 0.8850541114807129
+1/1 [==============================] - 0s 26ms/step
+109. Video: gochxzemmq.mp4, Prediction: Fake, Confidence: 0.8061660528182983
+1/1 [==============================] - 0s 26ms/step
+110. Video: gpsxfxrjrr.mp4, Prediction: Fake, Confidence: 0.9412079453468323
+1/1 [==============================] - 0s 27ms/step
+111. Video: gqnaxievjx.mp4, Prediction: Fake, Confidence: 0.8867233395576477
+1/1 [==============================] - 0s 29ms/step
+112. Video: gunamloolc.mp4, Prediction: Fake, Confidence: 0.9964433312416077
+1/1 [==============================] - 0s 27ms/step
+113. Video: halvwiltfs.mp4, Prediction: Fake, Confidence: 0.8599472045898438
+1/1 [==============================] - 0s 28ms/step
+114. Video: hbufmvbium.mp4, Prediction: Fake, Confidence: 0.917663037776947
+1/1 [==============================] - 0s 33ms/step
+115. Video: hcanfkwivl.mp4, Prediction: Fake, Confidence: 0.7049709558486938
+1/1 [==============================] - 0s 26ms/step
+116. Video: hclsparpth.mp4, Prediction: Fake, Confidence: 0.7407931089401245
+1/1 [==============================] - 0s 26ms/step
+117. Video: hefisnapds.mp4, Prediction: Fake, Confidence: 0.9001374840736389
+1/1 [==============================] - 0s 28ms/step
+118. Video: heiyoojifp.mp4, Prediction: Fake, Confidence: 0.7258018851280212
+1/1 [==============================] - 0s 27ms/step
+119. Video: hevcclcklc.mp4, Prediction: Fake, Confidence: 0.67731112241745
+1/1 [==============================] - 0s 26ms/step
+120. Video: hfsvqabzfq.mp4, Prediction: Fake, Confidence: 0.8154774308204651
+1/1 [==============================] - 0s 27ms/step
+121. Video: hicjuubiau.mp4, Prediction: Fake, Confidence: 0.7601298689842224
+1/1 [==============================] - 0s 26ms/step
+122. Video: hierggamuo.mp4, Prediction: Fake, Confidence: 0.7604864835739136
+1/1 [==============================] - 0s 26ms/step
+123. Video: hitfycdavv.mp4, Prediction: Fake, Confidence: 0.8628823161125183
+1/1 [==============================] - 0s 26ms/step
+124. Video: hnfwagcxdf.mp4, Prediction: Fake, Confidence: 0.9979376196861267
+1/1 [==============================] - 0s 27ms/step
+125. Video: honxqdilvv.mp4, Prediction: Fake, Confidence: 0.7276502251625061
+1/1 [==============================] - 0s 26ms/step
+126. Video: hqzwudvhih.mp4, Prediction: Fake, Confidence: 0.7533623576164246
+1/1 [==============================] - 0s 28ms/step
+127. Video: hsbljbsgxr.mp4, Prediction: Fake, Confidence: 0.874548614025116
+1/1 [==============================] - 0s 26ms/step
+128. Video: hsbwhlolsn.mp4, Prediction: Fake, Confidence: 0.7549224495887756
+1/1 [==============================] - 0s 49ms/step
+129. Video: hszwwswewp.mp4, Prediction: Fake, Confidence: 0.5075415968894958
+1/1 [==============================] - 0s 26ms/step
+130. Video: htzbnroagi.mp4, Prediction: Fake, Confidence: 0.8202770948410034
+1/1 [==============================] - 0s 27ms/step
+131. Video: huvlwkxoxm.mp4, Prediction: Fake, Confidence: 0.7330373525619507
+1/1 [==============================] - 0s 26ms/step
+132. Video: hweshqpfwe.mp4, Prediction: Fake, Confidence: 0.9224280714988708
+1/1 [==============================] - 0s 26ms/step
+133. Video: hxwtsaydal.mp4, Prediction: Fake, Confidence: 0.8245494961738586
+1/1 [==============================] - 0s 28ms/step
+134. Video: hyjqolupxn.mp4, Prediction: Fake, Confidence: 0.8709195852279663
+1/1 [==============================] - 0s 27ms/step
+135. Video: hzoiotcykp.mp4, Prediction: Fake, Confidence: 0.8317168354988098
+1/1 [==============================] - 0s 26ms/step
+136. Video: hzssdinxec.mp4, Prediction: Fake, Confidence: 0.9153555035591125
+1/1 [==============================] - 0s 28ms/step
+137. Video: ibxfxggtqh.mp4, Prediction: Fake, Confidence: 0.8253864049911499
+1/1 [==============================] - 0s 28ms/step
+138. Video: icbsahlivv.mp4, Prediction: Fake, Confidence: 0.9160320162773132
+1/1 [==============================] - 0s 28ms/step
+139. Video: igpvrfjdzc.mp4, Prediction: Fake, Confidence: 0.9724420309066772
+1/1 [==============================] - 0s 26ms/step
+140. Video: ihglzxzroo.mp4, Prediction: Fake, Confidence: 0.9313045740127563
+1/1 [==============================] - 0s 28ms/step
+141. Video: iksxzpqxzi.mp4, Prediction: Fake, Confidence: 0.7871920466423035
+1/1 [==============================] - 0s 26ms/step
+142. Video: ilqwcbprqa.mp4, Prediction: Fake, Confidence: 0.798243522644043
+1/1 [==============================] - 0s 26ms/step
+143. Video: imdmhwkkni.mp4, Prediction: Fake, Confidence: 0.617446780204773
+1/1 [==============================] - 0s 26ms/step
+144. Video: iorbtaarte.mp4, Prediction: Fake, Confidence: 0.7243577241897583
+1/1 [==============================] - 0s 26ms/step
+145. Video: ipkpxvwroe.mp4, Prediction: Fake, Confidence: 0.7761322855949402
+1/1 [==============================] - 0s 26ms/step
+146. Video: ipvwtgdlre.mp4, Prediction: Fake, Confidence: 0.8787345290184021
+1/1 [==============================] - 0s 28ms/step
+147. Video: irqzdokcws.mp4, Prediction: Fake, Confidence: 0.7829831838607788
+1/1 [==============================] - 0s 27ms/step
+148. Video: itfsvvmslp.mp4, Prediction: Fake, Confidence: 0.8688516616821289
+1/1 [==============================] - 0s 27ms/step
+149. Video: iznnzjvaxc.mp4, Prediction: Fake, Confidence: 0.8323493003845215
+1/1 [==============================] - 0s 27ms/step
+150. Video: jawgcggquk.mp4, Prediction: Fake, Confidence: 0.8909457325935364
+1/1 [==============================] - 0s 26ms/step
+151. Video: jhczqfefgw.mp4, Prediction: Fake, Confidence: 0.7887753248214722
+1/1 [==============================] - 0s 29ms/step
+152. Video: jiavqbrkyk.mp4, Prediction: Fake, Confidence: 0.6115622520446777
+1/1 [==============================] - 0s 25ms/step
+153. Video: jiswxuqzyz.mp4, Prediction: Fake, Confidence: 0.6414870619773865
+1/1 [==============================] - 0s 30ms/step
+154. Video: jquevmhdvc.mp4, Prediction: Fake, Confidence: 0.9042295813560486
+1/1 [==============================] - 0s 27ms/step
+155. Video: jsbpkpxwew.mp4, Prediction: Fake, Confidence: 0.8691070079803467
+1/1 [==============================] - 0s 27ms/step
+156. Video: jsysgmycsx.mp4, Prediction: Fake, Confidence: 0.9692986011505127
+1/1 [==============================] - 0s 27ms/step
+157. Video: jyfvaequfg.mp4, Prediction: Fake, Confidence: 0.9354831576347351
+1/1 [==============================] - 0s 26ms/step
+158. Video: jyoxdvxpza.mp4, Prediction: Fake, Confidence: 0.9012219309806824
+1/1 [==============================] - 0s 26ms/step
+159. Video: jytrvwlewz.mp4, Prediction: Fake, Confidence: 0.903854250907898
+1/1 [==============================] - 0s 26ms/step
+160. Video: jzmzdispyo.mp4, Prediction: Fake, Confidence: 0.6486364006996155
+1/1 [==============================] - 0s 27ms/step
+161. Video: kcjvhgvhpt.mp4, Prediction: Fake, Confidence: 0.8930791616439819
+1/1 [==============================] - 0s 27ms/step
+162. Video: keioymnobc.mp4, Prediction: Fake, Confidence: 0.6562240719795227
+1/1 [==============================] - 0s 30ms/step
+163. Video: kezwvsxxzj.mp4, Prediction: Fake, Confidence: 0.8382768034934998
+1/1 [==============================] - 0s 28ms/step
+164. Video: khpipxnsvx.mp4, Prediction: Fake, Confidence: 0.7700654864311218
+1/1 [==============================] - 0s 27ms/step
+165. Video: kmcdjxmnoa.mp4, Prediction: Fake, Confidence: 0.7964621186256409
+1/1 [==============================] - 0s 29ms/step
+166. Video: kmqkiihrmj.mp4, Prediction: Fake, Confidence: 0.802827775478363
+1/1 [==============================] - 0s 26ms/step
+167. Video: knxltsvzyu.mp4, Prediction: Fake, Confidence: 0.8979920148849487
+1/1 [==============================] - 0s 26ms/step
+168. Video: kowiwvrjht.mp4, Prediction: Fake, Confidence: 0.9691264033317566
+1/1 [==============================] - 0s 26ms/step
+169. Video: kqlvggiqee.mp4, Prediction: Fake, Confidence: 0.904588520526886
+1/1 [==============================] - 0s 27ms/step
+170. Video: kvmpmhdxly.mp4, Prediction: Fake, Confidence: 0.9829405546188354
+1/1 [==============================] - 0s 26ms/step
+171. Video: kwfdyqofzw.mp4, Prediction: Fake, Confidence: 0.9779508709907532
+1/1 [==============================] - 0s 26ms/step
+172. Video: lbfqksftuo.mp4, Prediction: Fake, Confidence: 0.9434386491775513
+1/1 [==============================] - 0s 28ms/step
+173. Video: lbigytrrtr.mp4, Prediction: Fake, Confidence: 0.6082888841629028
+1/1 [==============================] - 0s 28ms/step
+174. Video: lebzjtusnr.mp4, Prediction: Fake, Confidence: 0.7892740368843079
+1/1 [==============================] - 0s 27ms/step
+175. Video: lhvjzhjxdp.mp4, Prediction: Fake, Confidence: 0.5293179154396057
+1/1 [==============================] - 0s 26ms/step
+176. Video: ljauauuyka.mp4, Prediction: Real, Confidence: 0.4528268277645111
+1/1 [==============================] - 0s 27ms/step
+177. Video: ljouzjaqqe.mp4, Prediction: Fake, Confidence: 0.9106916785240173
+1/1 [==============================] - 0s 26ms/step
+178. Video: llplvmcvbl.mp4, Prediction: Fake, Confidence: 0.969279944896698
+1/1 [==============================] - 0s 27ms/step
+179. Video: lmdyicksrv.mp4, Prediction: Fake, Confidence: 0.9435699582099915
+1/1 [==============================] - 0s 26ms/step
+180. Video: lnhkjhyhvw.mp4, Prediction: Fake, Confidence: 0.9733363389968872
+1/1 [==============================] - 0s 27ms/step
+181. Video: lnjkpdviqb.mp4, Prediction: Fake, Confidence: 0.6906274557113647
+1/1 [==============================] - 0s 26ms/step
+182. Video: lpgxwdgnio.mp4, Prediction: Fake, Confidence: 0.9159471392631531
+1/1 [==============================] - 0s 28ms/step
+183. Video: lpkgabskbw.mp4, Prediction: Fake, Confidence: 0.8711702823638916
+1/1 [==============================] - 0s 27ms/step
+184. Video: lujvyveojc.mp4, Prediction: Fake, Confidence: 0.9212780594825745
+1/1 [==============================] - 0s 26ms/step
+185. Video: lyoslorecs.mp4, Prediction: Fake, Confidence: 0.8016422986984253
+1/1 [==============================] - 0s 27ms/step
+186. Video: mdfndlljvt.mp4, Prediction: Fake, Confidence: 0.9669744968414307
+1/1 [==============================] - 0s 27ms/step
+187. Video: mkmgcxaztt.mp4, Prediction: Fake, Confidence: 0.7394107580184937
+1/1 [==============================] - 0s 28ms/step
+188. Video: mkzaekkvej.mp4, Prediction: Fake, Confidence: 0.7197518944740295
+1/1 [==============================] - 0s 27ms/step
+189. Video: mllzkpgatp.mp4, Prediction: Fake, Confidence: 0.8594858646392822
+1/1 [==============================] - 0s 27ms/step
+190. Video: mnowxangqx.mp4, Prediction: Fake, Confidence: 0.8355544209480286
+1/1 [==============================] - 0s 27ms/step
+191. Video: mnzabbkpmt.mp4, Prediction: Fake, Confidence: 0.609273374080658
+1/1 [==============================] - 0s 27ms/step
+192. Video: mohiqoogpb.mp4, Prediction: Fake, Confidence: 0.9160265326499939
+1/1 [==============================] - 0s 26ms/step
+193. Video: mszblrdprw.mp4, Prediction: Fake, Confidence: 0.8969987630844116
+1/1 [==============================] - 0s 27ms/step
+194. Video: mwnibuujwz.mp4, Prediction: Fake, Confidence: 0.7500946521759033
+1/1 [==============================] - 0s 27ms/step
+195. Video: mwwploizlj.mp4, Prediction: Fake, Confidence: 0.9441795945167542
+1/1 [==============================] - 0s 26ms/step
+196. Video: mxahsihabr.mp4, Prediction: Fake, Confidence: 0.9161929488182068
+1/1 [==============================] - 0s 28ms/step
+197. Video: mxlipjhmqk.mp4, Prediction: Fake, Confidence: 0.8650667667388916
+1/1 [==============================] - 0s 26ms/step
+198. Video: ncmpqwmnzb.mp4, Prediction: Fake, Confidence: 0.9354944825172424
+1/1 [==============================] - 0s 26ms/step
+199. Video: ncoeewrdlo.mp4, Prediction: Fake, Confidence: 0.7894001603126526
+1/1 [==============================] - 0s 26ms/step
+200. Video: ndikguxzek.mp4, Prediction: Fake, Confidence: 0.9491707682609558
+1/1 [==============================] - 0s 28ms/step
+201. Video: nikynwcvuh.mp4, Prediction: Fake, Confidence: 0.96622633934021
+1/1 [==============================] - 0s 26ms/step
+202. Video: njzshtfmcw.mp4, Prediction: Fake, Confidence: 0.5330840349197388
+1/1 [==============================] - 0s 27ms/step
+203. Video: nkhzxomani.mp4, Prediction: Fake, Confidence: 0.8256386518478394
+1/1 [==============================] - 0s 26ms/step
+204. Video: novarhxpbj.mp4, Prediction: Fake, Confidence: 0.8858334422111511
+1/1 [==============================] - 0s 26ms/step
+205. Video: nplviymzlg.mp4, Prediction: Fake, Confidence: 0.8876224756240845
+1/1 [==============================] - 0s 26ms/step
+206. Video: nswtvttxre.mp4, Prediction: Fake, Confidence: 0.9937862753868103
+1/1 [==============================] - 0s 27ms/step
+207. Video: nthpnwylxo.mp4, Prediction: Fake, Confidence: 0.947583794593811
+1/1 [==============================] - 0s 26ms/step
+208. Video: nwvloufjty.mp4, Prediction: Fake, Confidence: 0.9518763422966003
+1/1 [==============================] - 0s 28ms/step
+209. Video: nwvsbmyndn.mp4, Prediction: Fake, Confidence: 0.6783764362335205
+1/1 [==============================] - 0s 27ms/step
+210. Video: nxgzmgzkfv.mp4, Prediction: Fake, Confidence: 0.8812885284423828
+1/1 [==============================] - 0s 27ms/step
+211. Video: nxnmkytwze.mp4, Prediction: Fake, Confidence: 0.8927062749862671
+1/1 [==============================] - 0s 27ms/step
+212. Video: nxzgekegsp.mp4, Prediction: Fake, Confidence: 0.8034595251083374
+1/1 [==============================] - 0s 27ms/step
+213. Video: nycmyuzpml.mp4, Prediction: Fake, Confidence: 0.6445637345314026
+1/1 [==============================] - 0s 29ms/step
+214. Video: nymodlmxni.mp4, Prediction: Fake, Confidence: 0.553101658821106
+1/1 [==============================] - 0s 27ms/step
+215. Video: oaguiggjyv.mp4, Prediction: Fake, Confidence: 0.8541479110717773
+1/1 [==============================] - 0s 26ms/step
+216. Video: ocgdbrgmtq.mp4, Prediction: Fake, Confidence: 0.8352984189987183
+1/1 [==============================] - 0s 26ms/step
+217. Video: oefukgnvel.mp4, Prediction: Fake, Confidence: 0.595219075679779
+1/1 [==============================] - 0s 27ms/step
+218. Video: oelqpetgwj.mp4, Prediction: Fake, Confidence: 0.9390362501144409
+1/1 [==============================] - 0s 27ms/step
+219. Video: ojsxxkalat.mp4, Prediction: Fake, Confidence: 0.8797129392623901
+1/1 [==============================] - 0s 28ms/step
+220. Video: okgelildpc.mp4, Prediction: Fake, Confidence: 0.7764180302619934
+1/1 [==============================] - 0s 26ms/step
+221. Video: omphqltjdd.mp4, Prediction: Fake, Confidence: 0.9169917702674866
+1/1 [==============================] - 0s 27ms/step
+222. Video: ooafcxxfrs.mp4, Prediction: Fake, Confidence: 0.7784639596939087
+1/1 [==============================] - 0s 27ms/step
+223. Video: oocincvedt.mp4, Prediction: Fake, Confidence: 0.7397028207778931
+1/1 [==============================] - 0s 27ms/step
+224. Video: oojxonbgow.mp4, Prediction: Fake, Confidence: 0.774235725402832
+1/1 [==============================] - 0s 26ms/step
+225. Video: opvqdabdap.mp4, Prediction: Fake, Confidence: 0.7356005907058716
+1/1 [==============================] - 0s 27ms/step
+226. Video: orekjthsef.mp4, Prediction: Fake, Confidence: 0.8249706029891968
+1/1 [==============================] - 0s 26ms/step
+227. Video: orixbcfvdz.mp4, Prediction: Fake, Confidence: 0.9918453097343445
+1/1 [==============================] - 0s 26ms/step
+228. Video: ouaowjmigq.mp4, Prediction: Fake, Confidence: 0.9303218722343445
+1/1 [==============================] - 0s 26ms/step
+229. Video: owaogcehvc.mp4, Prediction: Fake, Confidence: 0.9158441424369812
+1/1 [==============================] - 0s 27ms/step
+230. Video: oyqgwjdwaj.mp4, Prediction: Fake, Confidence: 0.8854892253875732
+1/1 [==============================] - 0s 28ms/step
+231. Video: oysopgovhu.mp4, Prediction: Fake, Confidence: 0.9648423790931702
+1/1 [==============================] - 0s 28ms/step
+232. Video: papagllumt.mp4, Prediction: Fake, Confidence: 0.6822363138198853
+1/1 [==============================] - 0s 26ms/step
+233. Video: pcoxcmtroa.mp4, Prediction: Fake, Confidence: 0.8254335522651672
+1/1 [==============================] - 0s 25ms/step
+234. Video: pcyswtgick.mp4, Prediction: Fake, Confidence: 0.9105579257011414
+1/1 [==============================] - 0s 26ms/step
+235. Video: pdswwyyntw.mp4, Prediction: Fake, Confidence: 0.8196799159049988
+1/1 [==============================] - 0s 26ms/step
+236. Video: pdufsewrec.mp4, Prediction: Fake, Confidence: 0.8242506980895996
+1/1 [==============================] - 0s 26ms/step
+237. Video: petmyhjclt.mp4, Prediction: Fake, Confidence: 0.5982426404953003
+1/1 [==============================] - 0s 27ms/step
+238. Video: phjvutxpoi.mp4, Prediction: Fake, Confidence: 0.9196010828018188
+1/1 [==============================] - 0s 26ms/step
+239. Video: pqdeutauqc.mp4, Prediction: Fake, Confidence: 0.6747808456420898
+1/1 [==============================] - 0s 27ms/step
+240. Video: pqthmvwonf.mp4, Prediction: Fake, Confidence: 0.9925351142883301
+1/1 [==============================] - 0s 27ms/step
+241. Video: prhmixykhr.mp4, Prediction: Fake, Confidence: 0.9010812640190125
+1/1 [==============================] - 0s 27ms/step
+242. Video: prwsfljdjo.mp4, Prediction: Fake, Confidence: 0.9448618292808533
+1/1 [==============================] - 0s 27ms/step
+243. Video: psesikjaxx.mp4, Prediction: Fake, Confidence: 0.8959804773330688
+1/1 [==============================] - 0s 26ms/step
+244. Video: ptbfnkajyi.mp4, Prediction: Fake, Confidence: 0.8698021173477173
+1/1 [==============================] - 0s 26ms/step
+245. Video: ptbnewtvon.mp4, Prediction: Fake, Confidence: 0.8868577480316162
+1/1 [==============================] - 0s 26ms/step
+246. Video: pxcfrszlgi.mp4, Prediction: Fake, Confidence: 0.7824460864067078
+1/1 [==============================] - 0s 27ms/step
+247. Video: pxjkzvqomp.mp4, Prediction: Fake, Confidence: 0.9494743347167969
+1/1 [==============================] - 0s 27ms/step
+248. Video: qarqtkvgby.mp4, Prediction: Fake, Confidence: 0.8708452582359314
+1/1 [==============================] - 0s 27ms/step
+249. Video: qcbkztamqc.mp4, Prediction: Fake, Confidence: 0.8902410268783569
+1/1 [==============================] - 0s 27ms/step
+250. Video: qclpbcbgeq.mp4, Prediction: Fake, Confidence: 0.8615246415138245
+1/1 [==============================] - 0s 27ms/step
+251. Video: qdqdsaiitt.mp4, Prediction: Fake, Confidence: 0.9089072346687317
+1/1 [==============================] - 0s 28ms/step
+252. Video: qhkzlnzruj.mp4, Prediction: Fake, Confidence: 0.7843935489654541
+1/1 [==============================] - 0s 26ms/step
+253. Video: qhsehzgxqj.mp4, Prediction: Fake, Confidence: 0.7559847235679626
+1/1 [==============================] - 0s 27ms/step
+254. Video: qlqhjcshpk.mp4, Prediction: Fake, Confidence: 0.9832135438919067
+1/1 [==============================] - 0s 27ms/step
+255. Video: qlvsqdroqo.mp4, Prediction: Fake, Confidence: 0.8709867000579834
+1/1 [==============================] - 0s 26ms/step
+256. Video: qooxnxqqjb.mp4, Prediction: Fake, Confidence: 0.8832756876945496
+1/1 [==============================] - 0s 27ms/step
+257. Video: qqnlrngaft.mp4, Prediction: Fake, Confidence: 0.8744898438453674
+1/1 [==============================] - 0s 27ms/step
+258. Video: qsjiypnjwi.mp4, Prediction: Fake, Confidence: 0.8265895843505859
+1/1 [==============================] - 0s 26ms/step
+259. Video: qswlzfgcgj.mp4, Prediction: Fake, Confidence: 0.8747819066047668
+1/1 [==============================] - 0s 37ms/step
+260. Video: qxyrtwozyw.mp4, Prediction: Fake, Confidence: 0.925359845161438
+1/1 [==============================] - 0s 29ms/step
+261. Video: qyyhuvqmyf.mp4, Prediction: Fake, Confidence: 0.9636759757995605
+1/1 [==============================] - 0s 29ms/step
+262. Video: rcecrgeotc.mp4, Prediction: Fake, Confidence: 0.965880274772644
+1/1 [==============================] - 0s 27ms/step
+263. Video: rcjfxxhcal.mp4, Prediction: Fake, Confidence: 0.9793338179588318
+1/1 [==============================] - 0s 33ms/step
+264. Video: rerpivllud.mp4, Prediction: Fake, Confidence: 0.9716020226478577
+1/1 [==============================] - 0s 28ms/step
+265. Video: rfjuhbnlro.mp4, Prediction: Fake, Confidence: 0.7888457775115967
+1/1 [==============================] - 0s 28ms/step
+266. Video: rfwxcinshk.mp4, Prediction: Fake, Confidence: 0.9924073815345764
+1/1 [==============================] - 0s 34ms/step
+267. Video: rklawjhbpv.mp4, Prediction: Fake, Confidence: 0.6602102518081665
+1/1 [==============================] - 0s 29ms/step
+268. Video: rktrpsdlci.mp4, Prediction: Fake, Confidence: 0.882172703742981
+1/1 [==============================] - 0s 28ms/step
+269. Video: rmlzgerevr.mp4, Prediction: Fake, Confidence: 0.6543830037117004
+1/1 [==============================] - 0s 27ms/step
+270. Video: rmufsuogzn.mp4, Prediction: Fake, Confidence: 0.8819005489349365
+1/1 [==============================] - 0s 28ms/step
+271. Video: rnfcjxynfa.mp4, Prediction: Fake, Confidence: 0.6661664843559265
+1/1 [==============================] - 0s 27ms/step
+272. Video: rrrfjhugvb.mp4, Prediction: Fake, Confidence: 0.8237987160682678
+1/1 [==============================] - 0s 27ms/step
+273. Video: rtpbawlmxr.mp4, Prediction: Fake, Confidence: 0.7540433406829834
+1/1 [==============================] - 0s 28ms/step
+274. Video: ruhtnngrqv.mp4, Prediction: Fake, Confidence: 0.7499350309371948
+1/1 [==============================] - 0s 26ms/step
+275. Video: rukyxomwcx.mp4, Prediction: Real, Confidence: 0.4392167627811432
+1/1 [==============================] - 0s 27ms/step
+276. Video: rvvpazsffd.mp4, Prediction: Fake, Confidence: 0.8268370032310486
+1/1 [==============================] - 0s 27ms/step
+277. Video: rxdoimqble.mp4, Prediction: Fake, Confidence: 0.8401342630386353
+1/1 [==============================] - 0s 29ms/step
+278. Video: ryxaqpfubf.mp4, Prediction: Fake, Confidence: 0.8778831362724304
+1/1 [==============================] - 0s 27ms/step
+279. Video: scbdenmaed.mp4, Prediction: Fake, Confidence: 0.8576018810272217
+1/1 [==============================] - 0s 27ms/step
+280. Video: scrbqgpvzz.mp4, Prediction: Fake, Confidence: 0.9733929634094238
+1/1 [==============================] - 0s 27ms/step
+281. Video: sfsayjgzrh.mp4, Prediction: Fake, Confidence: 0.9831288456916809
+1/1 [==============================] - 0s 27ms/step
+282. Video: shnsajrsow.mp4, Prediction: Fake, Confidence: 0.8633605241775513
+1/1 [==============================] - 0s 26ms/step
+283. Video: siebfpwuhu.mp4, Prediction: Fake, Confidence: 0.9418606758117676
+1/1 [==============================] - 0s 27ms/step
+284. Video: sjinmmbipg.mp4, Prediction: Fake, Confidence: 0.9965469837188721
+1/1 [==============================] - 0s 26ms/step
+285. Video: sjkfxrlxxs.mp4, Prediction: Fake, Confidence: 0.7853782176971436
+1/1 [==============================] - 0s 26ms/step
+286. Video: sjwywglgym.mp4, Prediction: Fake, Confidence: 0.7887517213821411
+1/1 [==============================] - 0s 26ms/step
+287. Video: sktpeppbkc.mp4, Prediction: Fake, Confidence: 0.880921483039856
+1/1 [==============================] - 0s 27ms/step
+288. Video: sngjsueuhs.mp4, Prediction: Fake, Confidence: 0.7487384676933289
+1/1 [==============================] - 0s 28ms/step
+289. Video: snlyjbnpgw.mp4, Prediction: Fake, Confidence: 0.789921760559082
+1/1 [==============================] - 0s 26ms/step
+290. Video: sodvtfqbpf.mp4, Prediction: Fake, Confidence: 0.6135787963867188
+1/1 [==============================] - 0s 27ms/step
+291. Video: sqixhnilfm.mp4, Prediction: Fake, Confidence: 0.5090784430503845
+1/1 [==============================] - 0s 26ms/step
+292. Video: srfefmyjvt.mp4, Prediction: Fake, Confidence: 0.9017839431762695
+1/1 [==============================] - 0s 27ms/step
+293. Video: sufvvwmbha.mp4, Prediction: Fake, Confidence: 0.7982543706893921
+1/1 [==============================] - 0s 26ms/step
+294. Video: swsaoktwgi.mp4, Prediction: Fake, Confidence: 0.8634270429611206
+1/1 [==============================] - 0s 26ms/step
+295. Video: sylnrepacf.mp4, Prediction: Fake, Confidence: 0.8426049947738647
+1/1 [==============================] - 0s 27ms/step
+296. Video: syuxttuyhm.mp4, Prediction: Fake, Confidence: 0.7898280024528503
+1/1 [==============================] - 0s 27ms/step
+297. Video: syxobtuucp.mp4, Prediction: Fake, Confidence: 0.5969007015228271
+1/1 [==============================] - 0s 27ms/step
+298. Video: sznkemeqro.mp4, Prediction: Fake, Confidence: 0.9012174606323242
+1/1 [==============================] - 0s 26ms/step
+299. Video: tejfudfgpq.mp4, Prediction: Fake, Confidence: 0.9167640805244446
+1/1 [==============================] - 0s 26ms/step
+300. Video: temeqbmzxu.mp4, Prediction: Fake, Confidence: 0.964881420135498
+1/1 [==============================] - 0s 31ms/step
+301. Video: temjefwaas.mp4, Prediction: Fake, Confidence: 0.7526859045028687
+1/1 [==============================] - 0s 26ms/step
+302. Video: tgawasvbbr.mp4, Prediction: Fake, Confidence: 0.7514126300811768
+1/1 [==============================] - 0s 26ms/step
+303. Video: tjuihawuqm.mp4, Prediction: Fake, Confidence: 0.882832407951355
+1/1 [==============================] - 0s 27ms/step
+304. Video: tjywwgftmv.mp4, Prediction: Fake, Confidence: 0.5967809557914734
+1/1 [==============================] - 0s 27ms/step
+305. Video: toinozytsp.mp4, Prediction: Fake, Confidence: 0.8741276860237122
+1/1 [==============================] - 0s 29ms/step
+306. Video: tvhjcfnqtg.mp4, Prediction: Fake, Confidence: 0.8692659735679626
+1/1 [==============================] - 0s 26ms/step
+307. Video: txmnoyiyte.mp4, Prediction: Fake, Confidence: 0.9020300507545471
+1/1 [==============================] - 0s 27ms/step
+308. Video: txnmkabufs.mp4, Prediction: Fake, Confidence: 0.8265812397003174
+1/1 [==============================] - 0s 28ms/step
+309. Video: tyjpjpglgx.mp4, Prediction: Fake, Confidence: 0.7997084856033325
+1/1 [==============================] - 0s 27ms/step
+310. Video: tynfsthodx.mp4, Prediction: Fake, Confidence: 0.9180140495300293
+1/1 [==============================] - 0s 26ms/step
+311. Video: ucthmsajay.mp4, Prediction: Fake, Confidence: 0.9104995131492615
+1/1 [==============================] - 0s 27ms/step
+312. Video: udxqbhgvvx.mp4, Prediction: Fake, Confidence: 0.9109832644462585
+1/1 [==============================] - 0s 27ms/step
+313. Video: uhakqelqri.mp4, Prediction: Fake, Confidence: 0.8964298963546753
+1/1 [==============================] - 0s 26ms/step
+314. Video: uhrqlmlclw.mp4, Prediction: Fake, Confidence: 0.7522613406181335
+1/1 [==============================] - 0s 28ms/step
+315. Video: uoccaiathd.mp4, Prediction: Fake, Confidence: 0.7848904132843018
+1/1 [==============================] - 0s 27ms/step
+316. Video: upmgtackuf.mp4, Prediction: Fake, Confidence: 0.8599230647087097
+1/1 [==============================] - 0s 27ms/step
+317. Video: uqvxjfpwdo.mp4, Prediction: Fake, Confidence: 0.7845426201820374
+1/1 [==============================] - 0s 26ms/step
+318. Video: usqqvxcjmg.mp4, Prediction: Fake, Confidence: 0.9052629470825195
+1/1 [==============================] - 0s 28ms/step
+319. Video: uubgqnvfdl.mp4, Prediction: Fake, Confidence: 0.8766261339187622
+1/1 [==============================] - 0s 27ms/step
+320. Video: uvrzaczrbx.mp4, Prediction: Fake, Confidence: 0.877560019493103
+1/1 [==============================] - 0s 27ms/step
+321. Video: uxuvkrjhws.mp4, Prediction: Fake, Confidence: 0.8868288397789001
+1/1 [==============================] - 0s 26ms/step
+322. Video: vajkicalux.mp4, Prediction: Fake, Confidence: 0.8001688122749329
+1/1 [==============================] - 0s 26ms/step
+323. Video: vbcgoyxsvn.mp4, Prediction: Fake, Confidence: 0.8557561039924622
+1/1 [==============================] - 0s 28ms/step
+324. Video: vdtsbqidjb.mp4, Prediction: Fake, Confidence: 0.7319133281707764
+1/1 [==============================] - 0s 26ms/step
+325. Video: vhbbwdflyh.mp4, Prediction: Fake, Confidence: 0.8709326386451721
+1/1 [==============================] - 0s 27ms/step
+326. Video: viteugozpv.mp4, Prediction: Fake, Confidence: 0.8792569637298584
+1/1 [==============================] - 0s 26ms/step
+327. Video: vizerpsvbz.mp4, Prediction: Fake, Confidence: 0.9157437086105347
+1/1 [==============================] - 0s 27ms/step
+328. Video: vjljdfopjg.mp4, Prediction: Fake, Confidence: 0.77574223279953
+1/1 [==============================] - 0s 26ms/step
+329. Video: vmxfwxgdei.mp4, Prediction: Fake, Confidence: 0.728638768196106
+1/1 [==============================] - 0s 26ms/step
+330. Video: vnlzxqwthl.mp4, Prediction: Fake, Confidence: 0.8808982968330383
+1/1 [==============================] - 0s 26ms/step
+331. Video: voawxrmqyl.mp4, Prediction: Fake, Confidence: 0.7535664439201355
+1/1 [==============================] - 0s 27ms/step
+332. Video: vokrpfjpeb.mp4, Prediction: Fake, Confidence: 0.8277418613433838
+1/1 [==============================] - 0s 28ms/step
+333. Video: vssmlqoiti.mp4, Prediction: Fake, Confidence: 0.940519392490387
+1/1 [==============================] - 0s 26ms/step
+334. Video: vtunvalyji.mp4, Prediction: Fake, Confidence: 0.8795510530471802
+1/1 [==============================] - 0s 25ms/step
+335. Video: vurjckblge.mp4, Prediction: Fake, Confidence: 0.9033973813056946
+1/1 [==============================] - 0s 28ms/step
+336. Video: vvfszaosiv.mp4, Prediction: Fake, Confidence: 0.9920378923416138
+1/1 [==============================] - 0s 27ms/step
+337. Video: vwxednhlwz.mp4, Prediction: Fake, Confidence: 0.920371949672699
+1/1 [==============================] - 0s 26ms/step
+338. Video: wadvzjhwtw.mp4, Prediction: Fake, Confidence: 0.783778190612793
+1/1 [==============================] - 0s 27ms/step
+339. Video: waucvvmtkq.mp4, Prediction: Fake, Confidence: 0.8675798773765564
+1/1 [==============================] - 0s 27ms/step
+340. Video: wclvkepakb.mp4, Prediction: Fake, Confidence: 0.6046621799468994
+1/1 [==============================] - 0s 27ms/step
+341. Video: wcqvzujamg.mp4, Prediction: Fake, Confidence: 0.6382096409797668
+1/1 [==============================] - 0s 26ms/step
+342. Video: wcssbghcpc.mp4, Prediction: Fake, Confidence: 0.7896468043327332
+1/1 [==============================] - 0s 26ms/step
+343. Video: wcvsqnplsk.mp4, Prediction: Fake, Confidence: 0.7851846218109131
+1/1 [==============================] - 0s 26ms/step
+344. Video: wfzjxzhdkj.mp4, Prediction: Fake, Confidence: 0.7897676825523376
+1/1 [==============================] - 0s 26ms/step
+345. Video: wixbuuzygv.mp4, Prediction: Real, Confidence: 0.44750335812568665
+1/1 [==============================] - 0s 27ms/step
+346. Video: wjhpisoeaj.mp4, Prediction: Fake, Confidence: 0.847447395324707
+1/1 [==============================] - 0s 26ms/step
+347. Video: wmoqzxddkb.mp4, Prediction: Fake, Confidence: 0.6669799089431763
+1/1 [==============================] - 0s 29ms/step
+348. Video: wndursivcx.mp4, Prediction: Fake, Confidence: 0.9460397362709045
+1/1 [==============================] - 0s 27ms/step
+349. Video: wnlubukrki.mp4, Prediction: Fake, Confidence: 0.7897325754165649
+1/1 [==============================] - 0s 27ms/step
+350. Video: wqysrieiqu.mp4, Prediction: Fake, Confidence: 0.8451458811759949
+1/1 [==============================] - 0s 27ms/step
+351. Video: wvgviwnwob.mp4, Prediction: Fake, Confidence: 0.9384546279907227
+1/1 [==============================] - 0s 27ms/step
+352. Video: wynotylpnm.mp4, Prediction: Fake, Confidence: 0.8750206828117371
+1/1 [==============================] - 0s 27ms/step
+353. Video: xcruhaccxc.mp4, Prediction: Fake, Confidence: 0.8368127346038818
+1/1 [==============================] - 0s 27ms/step
+354. Video: xdezcezszc.mp4, Prediction: Fake, Confidence: 0.8578106164932251
+1/1 [==============================] - 0s 27ms/step
+355. Video: xhtppuyqdr.mp4, Prediction: Fake, Confidence: 0.7898256182670593
+1/1 [==============================] - 0s 26ms/step
+356. Video: xitgdpzbxv.mp4, Prediction: Fake, Confidence: 0.8810940384864807
+1/1 [==============================] - 0s 26ms/step
+357. Video: xjvxtuakyd.mp4, Prediction: Fake, Confidence: 0.9983822107315063
+1/1 [==============================] - 0s 27ms/step
+358. Video: xljemofssi.mp4, Prediction: Fake, Confidence: 0.859574019908905
+1/1 [==============================] - 0s 28ms/step
+359. Video: xmkwsnuzyq.mp4, Prediction: Fake, Confidence: 0.7561846375465393
+1/1 [==============================] - 0s 27ms/step
+360. Video: xphdfgmfmz.mp4, Prediction: Fake, Confidence: 0.9484488368034363
+1/1 [==============================] - 0s 28ms/step
+361. Video: xrtvqhdibb.mp4, Prediction: Fake, Confidence: 0.8597241640090942
+1/1 [==============================] - 0s 28ms/step
+362. Video: xugmhbetrw.mp4, Prediction: Fake, Confidence: 0.8321176767349243
+1/1 [==============================] - 0s 47ms/step
+363. Video: xxzefxwyku.mp4, Prediction: Fake, Confidence: 0.7288692593574524
+1/1 [==============================] - 0s 27ms/step
+364. Video: yarpxfqejd.mp4, Prediction: Fake, Confidence: 0.7759170532226562
+1/1 [==============================] - 0s 27ms/step
+365. Video: yaxgpxhavq.mp4, Prediction: Fake, Confidence: 0.881304919719696
+1/1 [==============================] - 0s 26ms/step
+366. Video: ybbrkacebd.mp4, Prediction: Fake, Confidence: 0.8866441249847412
+1/1 [==============================] - 0s 27ms/step
+367. Video: yhjlnisfel.mp4, Prediction: Fake, Confidence: 0.7048699855804443
+1/1 [==============================] - 0s 28ms/step
+368. Video: yhylappzid.mp4, Prediction: Fake, Confidence: 0.9965144991874695
+1/1 [==============================] - 0s 27ms/step
+369. Video: yietrwuncf.mp4, Prediction: Fake, Confidence: 0.8729616403579712
+1/1 [==============================] - 0s 26ms/step
+370. Video: yiykshcbaz.mp4, Prediction: Fake, Confidence: 0.672958254814148
+1/1 [==============================] - 0s 28ms/step
+371. Video: yljecirelf.mp4, Prediction: Fake, Confidence: 0.7341361045837402
+1/1 [==============================] - 0s 27ms/step
+372. Video: yllztsrwjw.mp4, Prediction: Fake, Confidence: 0.7894057631492615
+1/1 [==============================] - 0s 26ms/step
+373. Video: ylxwcwhjjd.mp4, Prediction: Fake, Confidence: 0.9230871796607971
+1/1 [==============================] - 0s 26ms/step
+374. Video: yoyhmxtrys.mp4, Prediction: Fake, Confidence: 0.8591048717498779
+1/1 [==============================] - 0s 29ms/step
+375. Video: ypbtpunjvm.mp4, Prediction: Fake, Confidence: 0.8876112699508667
+1/1 [==============================] - 0s 28ms/step
+376. Video: yqhouqakbx.mp4, Prediction: Fake, Confidence: 0.9174452424049377
+1/1 [==============================] - 0s 26ms/step
+377. Video: yronlutbgm.mp4, Prediction: Fake, Confidence: 0.9468593001365662
+1/1 [==============================] - 0s 27ms/step
+378. Video: ystdtnetgj.mp4, Prediction: Fake, Confidence: 0.734845757484436
+1/1 [==============================] - 0s 27ms/step
+379. Video: ytddugrwph.mp4, Prediction: Fake, Confidence: 0.5649120211601257
+1/1 [==============================] - 0s 28ms/step
+380. Video: ytopzxrswu.mp4, Prediction: Fake, Confidence: 0.7841760516166687
+1/1 [==============================] - 0s 26ms/step
+381. Video: ywauoonmlr.mp4, Prediction: Fake, Confidence: 0.9284407496452332
+1/1 [==============================] - 0s 27ms/step
+382. Video: ywxpquomgt.mp4, Prediction: Fake, Confidence: 0.9799129962921143
+1/1 [==============================] - 0s 26ms/step
+383. Video: yxadevzohx.mp4, Prediction: Fake, Confidence: 0.894940972328186
+1/1 [==============================] - 0s 26ms/step
+384. Video: yxirnfyijn.mp4, Prediction: Fake, Confidence: 0.8701069355010986
+1/1 [==============================] - 0s 26ms/step
+385. Video: yxvmusxvcz.mp4, Prediction: Fake, Confidence: 0.9206200242042542
+1/1 [==============================] - 0s 25ms/step
+386. Video: yzuestxcbq.mp4, Prediction: Fake, Confidence: 0.7888725399971008
+1/1 [==============================] - 0s 27ms/step
+387. Video: zbgssotnjm.mp4, Prediction: Fake, Confidence: 0.7717594504356384
+1/1 [==============================] - 0s 26ms/step
+388. Video: zcxcmneefk.mp4, Prediction: Fake, Confidence: 0.9972372651100159
+1/1 [==============================] - 0s 26ms/step
+389. Video: zfobicuigx.mp4, Prediction: Real, Confidence: 0.4485414922237396
+1/1 [==============================] - 0s 26ms/step
+390. Video: zfrrixsimm.mp4, Prediction: Fake, Confidence: 0.8789483308792114
+1/1 [==============================] - 0s 25ms/step
+391. Video: zgbhzkditd.mp4, Prediction: Fake, Confidence: 0.7783578038215637
+1/1 [==============================] - 0s 26ms/step
+392. Video: zgjosltkie.mp4, Prediction: Fake, Confidence: 0.6768413186073303
+1/1 [==============================] - 0s 26ms/step
+393. Video: ziipxxchai.mp4, Prediction: Fake, Confidence: 0.8892124891281128
+1/1 [==============================] - 0s 27ms/step
+394. Video: zmxeiipnqb.mp4, Prediction: Fake, Confidence: 0.7789835333824158
+1/1 [==============================] - 0s 26ms/step
+395. Video: ztyuiqrhdk.mp4, Prediction: Fake, Confidence: 0.9059674739837646
+1/1 [==============================] - 0s 27ms/step
+396. Video: ztyvglkcsf.mp4, Prediction: Fake, Confidence: 0.8515400886535645
+1/1 [==============================] - 0s 27ms/step
+397. Video: zuwwbbusgl.mp4, Prediction: Fake, Confidence: 0.6292024254798889
+1/1 [==============================] - 0s 26ms/step
+398. Video: zxacihctqp.mp4, Prediction: Fake, Confidence: 0.8917103409767151
+1/1 [==============================] - 0s 28ms/step
+399. Video: zyufpqvpyu.mp4, Prediction: Fake, Confidence: 0.8216297626495361
+1/1 [==============================] - 0s 26ms/step
+400. Video: zzmgnglanj.mp4, Prediction: Fake, Confidence: 0.8176893591880798
